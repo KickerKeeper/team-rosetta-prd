@@ -1,0 +1,38 @@
+body {
+    /* font-family: Futura, 'Trebuchet MS', Arial, sans-serif; */
+    background-color: #b2eba9;
+}
+
+html {
+    background-color: #b2eba9;
+}
+
+.btn:focus,.btn:active {
+    outline: none !important;
+}
+
+#content-wrap {
+    display: block;
+    margin-top: 10%;
+}
+
+#dump {
+    display: block;
+    width: 75%;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+tr.first-row {
+    border-bottom: 2px solid #555;
+    background-color: transparent;
+    color: #80aa77;
+}
